@@ -12,7 +12,7 @@
 - There are small Python scripts that perform various tasks or solve specific problems. These scripts can be used as starting points for your own projects or as examples of how to accomplish common tasks.
 
 ## Learning Progress:
--As you explore the contents of this repository, you'll get a glimpse into my learning progress in Python. The code may vary in complexity, reflecting different stages of my learning journey.
+- As you explore the contents of this repository, you'll get a glimpse into my learning progress in Python. The code may vary in complexity, reflecting different stages of my learning journey.
 
 ## How to Use This Repository:
 - Explore the Code: Browse through the different files and directories to discover code related to the topics that interest you. You may find code related to web development, data analysis, machine learning, automation, and more.
